@@ -37,10 +37,11 @@ class AboutDialog(QDialog):
         layout = QVBoxLayout()
 
         label = QLabel(
-            "<div style=\"text-align: center\">"
-            "<h1>Picker</h1>"
-            "<p><a href=\"https://github.com/kkachiverse/picker.git\">Github 소스코드</a></p>"
-            "<p>GNU General Public License v3.0 <a href=\"https://www.gnu.org/licenses/gpl-3.0.en.html\">링크</a></p>"
+            "<h1 style=\"text-align: center\">Picker</h1>"
+            "<p>개발: kkachiverse</p>"
+            "<p>이메일: kkachiverse@gmail.com</p>"
+            "<p>소스코드: <a href=\"https://github.com/kkachiverse/picker.git\">Github</a></p>"
+            "<p>라이선스: <a href=\"https://www.gnu.org/licenses/gpl-3.0.en.html\">GNU General Public License v3.0</a></p>"
             "<p>&copy; 2025 kkachiverse</p>"
             "</div>"
         )
