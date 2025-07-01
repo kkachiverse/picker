@@ -1,0 +1,7 @@
+build
+dist
+test
+.DS_Store
+
+Picker.zip
+Picker.spec
