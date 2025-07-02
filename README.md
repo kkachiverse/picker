@@ -1,8 +1,6 @@
 # <img src="picker.png" alt="Picker 아이콘" width="32" style="vertical-align: middle;"> Picker
 
-**Picker**는 파일 필터링 유틸리티입니다.
-
-두 개의 폴더에서 확장자 기준으로 파일을 매칭하여, 해당하는 파일들을 이동시키는 macOS 전용 유틸리티입니다.
+**Picker**는 두 개의 폴더에서 확장자 기준으로 파일을 매칭하고 해당하는 파일들을 이동시키는 macOS 전용 유틸리티입니다.
 
 jpg 파일 목록과 일치하는 raw 파일 분류 시에 유용하게 사용할 수 있습니다.
 
